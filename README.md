@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/djfemz"><img src="https://api.daily.dev/devcards/5e647a73110f4982b54edae4425c3686.png?r=iy2" width="400" alt="Oladeji Femi's Dev Card"/></a>
 
 <!--
 **djfemz/djfemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
